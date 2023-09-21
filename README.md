@@ -13,10 +13,12 @@ Each scene contains a shape sorting cube and an object that can be placed inside
 
 
 **Non-kinematic Collision Detection**
+
 [![Watch the video](https://img.youtube.com/vi/vKjjESzeR_c/0.jpg)](https://youtu.be/vKjjESzeR_c)
 
 
 **Kinematic Collision Detection**
+
 [![Watch the video](https://img.youtube.com/vi/6WwQa8x1Oys/0.jpg)](https://youtu.be/6WwQa8x1Oys)
 
 
